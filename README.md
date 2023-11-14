@@ -1,2 +1,2 @@
 # suikagameAI
-スイカゲームのAI学習環境構築
+https://github.com/matt76k/decoponのゲームをプレイするAIの学習環境．
